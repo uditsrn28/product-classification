@@ -1,0 +1,4 @@
+bmv_training_set.csv
+bmv_test_set.csv
+.DS_Store
+.ipynb_checkpoints/
