@@ -3,9 +3,10 @@
 This is a texual product classification model using scikit learn, scipy, pandas, numpy and nltk. This model is written in python 2.7.
 
 ## Installation
-Install python 2.7
-Install pip
-Run command - pip install -r requirements.txt
+1. Install python 2.7
+2. Install pip
+3. Run command - pip install -r requirements.txt
+
 
 ## To train and Predict
 
